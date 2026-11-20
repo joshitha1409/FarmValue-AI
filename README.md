@@ -89,7 +89,7 @@ Explore our proposed solution, multi-agent architecture, implementation roadmap 
 ### 👥 Team CJ100
 
 - Joshitha M
-- Chethan Swaroop SM
+- Chethan Swaroop CM
 
 **FarmValue AI – AI informs; farmers make the final call.**
 
