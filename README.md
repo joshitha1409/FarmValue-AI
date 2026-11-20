@@ -1,8 +1,6 @@
 # FarmValue-AI
 Agentic AI-powered agricultural market intelligence and net-return optimisation platform.
 
-**An Agentic AI-powered agricultural market intelligence and net-return optimisation platform.**
-
 ## 🎯 Problem Statement
 
 Farmers often struggle to identify the most profitable market for their agricultural produce. Differences in market prices, buyer accessibility, transportation expenses, and post-harvest losses make selling decisions difficult.
