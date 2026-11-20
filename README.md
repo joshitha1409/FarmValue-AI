@@ -72,6 +72,25 @@ To make agricultural market intelligence more accessible and help farmers make i
 
 **AI informs; farmers make the final call.**
 
+## 📊 Project Presentation
+
+Explore our proposed solution, multi-agent architecture, implementation roadmap and expected impact.
+
+📥 **[View FarmValue AI – Project Presentation](presentation/FarmValue_AI_CJ100_Expanded_Presentation.pptx)**
+
+## 📁 Project Documentation
+
+- [System Architecture](docs/system-architecture.md)
+- [Agent Workflow](docs/agent-workflow.md)
+- [Research References & Data Sources](docs/research-references.md)
+
 ---
+
+### 👥 Team CJ100
+
+- Joshitha M
+- Chethan Swaroop SM
+
+**FarmValue AI – AI informs; farmers make the final call.**
 
 *Project stage: Proposed solution and design. Technology choices and workflows describe the intended implementation, not completed or deployed functionality.*
